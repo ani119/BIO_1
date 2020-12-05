@@ -1,0 +1,13 @@
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.exe
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.deps.json
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.runtimeconfig.json
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.runtimeconfig.dev.json
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.dll
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\bin\Debug\netcoreapp3.1\BIO_1.pdb
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.csprojAssemblyReference.cache
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.csproj.CoreCompileInputs.cache
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.AssemblyInfoInputs.cache
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.AssemblyInfo.cs
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.dll
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.pdb
+D:\STUDIA\MAGISTERKA\SEM2\BIO\LAB\BIO_1\BIO_1\obj\Debug\netcoreapp3.1\BIO_1.genruntimeconfig.cache
